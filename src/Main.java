@@ -9,7 +9,6 @@ public class Main {
         line("AD:C5:92:18:55:A5".split(":", 3));  // строка разделилась на 3 части
         line("the-method-of-dividing-into-lines".split("-", 3));  // строка разделилась на 3 части
     }
-
     static void line(String[] arr) {
         System.out.println(Arrays.toString(arr));
     }
