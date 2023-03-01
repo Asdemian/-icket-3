@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 //Напишите код, с помощью которого можно разделить строку на части.
 public class Main {
     public static void main(String[] args) {
